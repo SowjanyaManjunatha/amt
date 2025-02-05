@@ -1,5 +1,5 @@
 AMT=10000
-print("welcome to SBI")
+print("welcome to Canara Bank")
 print("insert the card")
 print("please wait")
 print("do not remove chip card")
